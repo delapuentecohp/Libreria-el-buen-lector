@@ -20,3 +20,29 @@ Si al buscar se digita el mismo libro,la plicacion dara un aviso que el libro bu
 
 ![1](https://github.com/user-attachments/assets/d756d5d1-1f7f-440a-aee3-d1233f1495a5)
 
+### Opcion 2.- Mostrar Libros Registrados.
+
+Esta Opcion muestra los libros que se encuentran guardados en la base de datos.
+
+![Captura de pantalla de 2025-01-03 12-33-18](https://github.com/user-attachments/assets/a2b519a9-c662-487d-bce8-8cd6bf61f8ff)
+
+### Opcion 3.- Autores Registrados.
+
+Esta opcion muestra los autores con sus libros guardados en la base de datos.
+
+![Captura de pantalla de 2025-01-03 12-36-03](https://github.com/user-attachments/assets/4140cd27-a526-435d-9d8e-4f45843ff3cd)
+
+## Opcion 4.- Mostrar Libros Registrados por Idioma.
+
+Esta opcion muestra los libros registrados pero por el idioma en que estan escritos. Despues digitar el numero 4 solicitara que se ingrese el idioma que son español,inglés, francés y protugues. Se puede realizar digitando el idioma completo o la sigla de ellos.
+
+Ejemplo digitando la sigla.
+
+![Captura de pantalla de 2025-01-03 12-39-22](https://github.com/user-attachments/assets/a64a1121-d2c4-4e3b-a3bb-80dc0f2ab4fc)
+
+Ejemplo digitando la palabra completa.
+
+![Captura de pantalla de 2025-01-03 12-50-07](https://github.com/user-attachments/assets/9dde9493-9572-4771-9d20-9cc2ae349030)
+
+
+
