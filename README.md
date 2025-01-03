@@ -44,5 +44,20 @@ Ejemplo digitando la palabra completa.
 
 ![Captura de pantalla de 2025-01-03 12-50-07](https://github.com/user-attachments/assets/9dde9493-9572-4771-9d20-9cc2ae349030)
 
+### Opcion 5.- Mostrar Autores registrados por año de nacimiento. 
 
+Esta opcion muestra a los autores registrados segun el año nacimiento que se ingrese a la aplicacion. 
 
+![Captura de pantalla de 2025-01-03 16-10-26](https://github.com/user-attachments/assets/fa7527ca-0457-43e2-9ffb-2fb14072b783)
+
+### Opcion 6.- Mostrar Autores registrados por año de fallecimiento. 
+
+Esta opcion muestra a los autores registrados segun el año fallecimiento que se ingrese a la aplicacion. 
+
+![2](https://github.com/user-attachments/assets/ef7c6c9c-2f35-4fd1-8089-d7229b0fab87)
+
+### Opcion 7.- Top 5 libros mas descargados.
+
+Esta opcion muestra los 5 libros mas descargados que se han registrado en la base de datos.
+
+![Captura de pantalla de 2025-01-03 16-15-46](https://github.com/user-attachments/assets/09e3ebc2-486c-4d93-8d2a-32aa9b95170c)
