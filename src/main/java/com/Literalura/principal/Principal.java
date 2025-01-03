@@ -55,7 +55,7 @@ public class Principal {
             System.out.println("\t|  4.- Mostrar Libros Registrados por Idioma             |");
             System.out.println("\t|  5.- Mostrar Autores Registrados por año Nacimiento    |");
             System.out.println("\t|  6.- Mostrar Autores Registrados por año Fallecimiento |");
-            System.out.println("\t|  7.- Mostrar Top 5 libros más populares                |");
+            System.out.println("\t|  7.- Mostrar Top 5 libros más descargados              |");
             System.out.println("\t|  0.- Salir                                             |");
             System.out.println("\t----------------------------------------------------------");
             System.out.print("\t Ingrese una Opcion: ");
@@ -83,8 +83,8 @@ public class Principal {
                                 if (libroDTO.getTitulo().equalsIgnoreCase(titulo1)) {
                                     Optional<Libros> libroExistente = librosServicio.obtenerLibroPorTitulo(titulo1);
                                     if (libroExistente.isPresent()) {
-                                        System.out.println("El libro " + titulo1 + " ya existe en la base de datos");
-                                        System.out.println("No se puede registrar el mismo libro más de una vez");
+                                        System.out.println(Variables.rojo+"     El libro " + titulo1 + " ya existe en la base de datos");
+                                        System.out.println("     No se puede registrar el mismo libro más de una vez"+Variables.b);
                                         break;
                                     } else {
                                         Libros libros = new Libros();
